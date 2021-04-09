@@ -1,4 +1,12 @@
-# webconnectiongrabber
+# web connection grabber
+
+- PASOS
+1 activar el modo desarrollador del navegador
+2 descompimir el archivo
+3 importar la carpeta al navegador
+4 suscribirte a mi canal y seguir mi blog 
+
+- CARACTERISTICAS
 - Ver todas las solicitudes y respuestas HTTP enviadas entre el navegador web y el servidor web.
 
 - Extension para navegadores web basados en chromium. 
